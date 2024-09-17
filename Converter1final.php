@@ -18,7 +18,7 @@
             <h1>PHP Converter</h1>
             <hr>
             <input type="text" name="celsuis" placeholder="Enter Celsuis" required>
-            <input type="text" name="farenheit" value="<?php echo $Farenheit;?>" placeholder="Farenheit">
+            <input type="text" name="farenheit" value="<?php echo $Farenheit;?>" placeholder="Farenheit" readonly>
             <input type="submit" name="submit" value="Calculate" class="sub">
         </form>
     </body>
