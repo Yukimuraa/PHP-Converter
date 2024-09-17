@@ -1,0 +1,40 @@
+*{
+    background-color: violet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 900;
+    
+}
+
+.box{
+    width: 350px;
+    margin: 120px auto;
+   
+}
+input{
+    width: 90%;
+    padding: 12px;
+    border-radius: 15px;
+    margin: 5px;
+    border: none;
+    outline: none;
+    background-color: pink;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.sub{
+    width: 338px;
+    cursor: pointer;
+    transition: 0.6s ease;
+}
+.sub:hover{
+    color: violet;
+}
+h1{
+    color: papayawhip;
+    text-align: center;
+}
+hr{
+    width:150px;
+}
